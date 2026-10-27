@@ -8,7 +8,7 @@
     "test:gatling": "npx gatling run --simulation GreetingSimulation --sources-folder src/simulations --results-folder results --resources-folder resources"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.22.3"
   },
   "devDependencies": {
     "@gatling.io/cli": "^3.15.1",
